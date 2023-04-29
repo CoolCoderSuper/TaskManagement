@@ -1,0 +1,6 @@
+[submodule "DeveloperCore.Pusher"]
+	path = DeveloperCore.Pusher
+	url = https://github.com/CoolCoderSuper/DeveloperCore.Pusher.git
+[submodule "DeveloperCore.ORM"]
+	path = DeveloperCore.ORM
+	url = https://github.com/CoolCoderSuper/DeveloperCore.ORM.git
